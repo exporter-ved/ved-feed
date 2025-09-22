@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2024-01-25 12:00">
+  <shop>
+    <name>Export-Import-Consulting</name>
+    <company>OOO Export-Import Consulting</company>
+    <url>https://export-import-consulting.ru/</url>
+    <description><![CDATA[Экспертные услуги по ВЭД: консалтинг, сопровождение экспорта и импорта, регистрация CIFER, параллельный импорт, аутсорсинг функций директора по ВЭД, открытие фирм за рубежом и сертификация продукции. Практический опыт Романа Долгих — более 17 лет.]]></description>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1"><![CDATA[Консалтинг по ВЭД]]></category>
+      <category id="2"><![CDATA[Аутсорсинг ВЭД]]></category>
+      <category id="3"><![CDATA[Практические консультации]]></category>
+      <category id="4"><![CDATA[Регистрация CIFER]]></category>
+      <category id="5"><![CDATA[Анализ рынков и экспортные стратегии]]></category>
+      <category id="6"><![CDATA[Открытие и сопровождение бизнеса за рубежом]]></category>
+      <category id="7"><![CDATA[Актуальные решения 2024]]></category>
+    </categories>
+    <offers>
+      <offer id="201">
+        <url>https://export-import-consulting.ru/#ved-outsourcing</url>
+        <price>10000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <name><![CDATA[Аутсорсинг ВЭД — сопровождение внешнеэкономической деятельности]]></name>
+        <description><![CDATA[Аутсорсинг ВЭД под ключ: контракты, переговоры, контроль документации, возврат НДС. Эксперт: Роман Долгих (17 лет практики).]]></description>
+      </offer>
+      <offer id="202">
+        <url>https://export-import-consulting.ru/#consulting</url>
+        <price>5000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <name><![CDATA[Консультация практика по ВЭД и сопровождение сделок]]></name>
+        <description><![CDATA[Персональные консультации по экспорту и импорту. Анализ рисков, оптимизация ВЭД‑процессов, международные контракты. Эксперт: Роман Долгих.]]></description>
+      </offer>
+      <offer id="203">
+        <url>https://export-import-consulting.ru/#cifer</url>
+        <price>7000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>4</categoryId>
+        <name><![CDATA[Регистрация CIFER для экспорта в Китай]]></name>
+        <description><![CDATA[Сопровождение аккредитации в системе CIFER: законный экспорт в КНР. Реальные кейсы российских компаний. Эксперт: Роман Долгих.]]></description>
+      </offer>
+      <offer id="204">
+        <url>https://export-import-consulting.ru/#market-analysis</url>
+        <price>15000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>5</categoryId>
+        <name><![CDATA[Анализ рынков и экспортные стратегии]]></name>
+        <description><![CDATA[Разработка стратегии выхода на международные рынки: оценка спроса, сертификация продукции. Кейсы экспорта в СНГ, Азию и Африку. Эксперт: Роман Долгих.]]></description>
+      </offer>
+      <offer id="205">
+        <url>https://export-import-consulting.ru/#company-abroad</url>
+        <price>20000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>6</categoryId>
+        <name><![CDATA[Открытие и сопровождение фирм за рубежом (Вьетнам, Малайзия и другие страны)]]></name>
+        <description><![CDATA[Регистрация компаний в Малайзии, Вьетнаме и других странах. Международная практика и адаптация под местные законы. Эксперт: Роман Долгих.]]></description>
+      </offer>
+      <offer id="206">
+        <url>https://export-import-consulting.ru/#outsourced-director-ved</url>
+        <price>25000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <name><![CDATA[Аутсорсинг директора по ВЭД]]></name>
+        <description><![CDATA[Услуга «директор по ВЭД» без найма в штат: управление сделками, переговоры, регистрация CIFER. Опыт Романа Долгих — 17 лет практики.]]></description>
+      </offer>
+      <offer id="207">
+        <url>https://export-import-consulting.ru/#parallel-import</url>
+        <price>12000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <name><![CDATA[Параллельный импорт и сопровождение поставок]]></name>
+        <description><![CDATA[Консалтинг по параллельному импорту: анализ ограничений, легальные схемы ввоза, снижение международных рисков. Эксперт: Роман Долгих.]]></description>
+      </offer>
+      <offer id="208">
+        <url>https://export-import-consulting.ru/#certification</url>
+        <price>8000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <name><![CDATA[Сертификация продукции для экспорта]]></name>
+        <description><![CDATA[Сертификация и аккредитация товаров для экспорта: Китай, ЕС, Азия, ОАЭ. Консультации по документам. Эксперт: Роман Долгих.]]></description>
+      </offer>
+      <offer id="209">
+        <url>https://export-import-consulting.ru/#currency</url>
+        <price>9000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <name><![CDATA[Международные расчёты и валютный контроль]]></name>
+        <description><![CDATA[Консультации по международным расчётам, валютному контролю, открытию зарубежных счетов и безопасным платежам. Эксперт: Роман Долгих.]]></description>
+      </offer>
+      <offer id="210">
+        <url>https://export-import-consulting.ru/#government-support</url>
+        <price>0</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>7</categoryId>
+        <name><![CDATA[Сопровождение получения экспортных субсидий и господдержки]]></name>
+        <description><![CDATA[Помощь экспортёрам в получении субсидий и господдержки (РЭЦ, региональные фонды). Опыт сопровождения заявок. Эксперт: Роман Долгих.]]></description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
