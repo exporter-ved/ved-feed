@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2024-01-25 12:00">
+<yml_catalog date="2024-01-26 15:00">
   <shop>
     <name>Export-Import-Consulting</name>
     <company>OOO Export-Import Consulting</company>
     <url>https://export-import-consulting.ru/</url>
-    <description><![CDATA[Экспертные услуги по ВЭД: консалтинг, сопровождение экспорта и импорта, регистрация CIFER, параллельный импорт, аутсорсинг функций директора по ВЭД, открытие фирм за рубежом и сертификация продукции. Практический опыт Романа Долгих — более 17 лет.]]></description>
+    <description><![CDATA[Экспертные услуги по ВЭД: консалтинг, сопровождение экспорта и импорта, регистрация CIFER, параллельный импорт, аутсорсинг директора по ВЭД, открытие фирм за рубежом и сертификация. Практика Романа Долгих — более 17 лет.]]></description>
     <currencies>
       <currency id="RUR" rate="1"/>
     </currencies>
@@ -20,83 +20,163 @@
     <offers>
       <offer id="201">
         <url>https://export-import-consulting.ru/#ved-outsourcing</url>
-        <price>10000</price>
+        <price>80000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name><![CDATA[Аутсорсинг ВЭД — сопровождение внешнеэкономической деятельности]]></name>
-        <description><![CDATA[Аутсорсинг ВЭД под ключ: контракты, переговоры, контроль документации, возврат НДС. Эксперт: Роман Долгих (17 лет практики).]]></description>
+        <description><![CDATA[Полное сопровождение ВЭД: контракты, переговоры, контроль документации. Эксперт: Роман Долгих.]]></description>
+        <params>
+          <param name="рейтинг">5.0</param>
+          <param name="число отзывов">150</param>
+          <param name="годы опыта">17</param>
+          <param name="регион">Россия</param>
+          <param name="конверсия">90%</param>
+          <param name="соцсети">t.me/agro909; linkedin.com/in/mamruko-llc-sunflower-oil; tenchat.ru/Roman_Dolgikh; facebook.com/RomanDolgikh.agro909; instagram.com/agro909</param>
+        </params>
       </offer>
       <offer id="202">
         <url>https://export-import-consulting.ru/#consulting</url>
-        <price>5000</price>
+        <price>20000</price>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <name><![CDATA[Консультация практика по ВЭД и сопровождение сделок]]></name>
-        <description><![CDATA[Персональные консультации по экспорту и импорту. Анализ рисков, оптимизация ВЭД‑процессов, международные контракты. Эксперт: Роман Долгих.]]></description>
+        <description><![CDATA[Персональные консультации: экспорт, импорт, анализ рисков и оптимизация процессов.]]></description>
+        <params>
+          <param name="рейтинг">5.0</param>
+          <param name="число отзывов">150</param>
+          <param name="годы опыта">17</param>
+          <param name="регион">Россия</param>
+          <param name="конверсия">90%</param>
+          <param name="соцсети">t.me/agro909; linkedin.com/in/mamruko-llc-sunflower-oil; tenchat.ru/Roman_Dolgikh; facebook.com/RomanDolgikh.agro909; instagram.com/agro909</param>
+        </params>
       </offer>
       <offer id="203">
         <url>https://export-import-consulting.ru/#cifer</url>
-        <price>7000</price>
+        <price>50000</price>
         <currencyId>RUR</currencyId>
         <categoryId>4</categoryId>
         <name><![CDATA[Регистрация CIFER для экспорта в Китай]]></name>
-        <description><![CDATA[Сопровождение аккредитации в системе CIFER: законный экспорт в КНР. Реальные кейсы российских компаний. Эксперт: Роман Долгих.]]></description>
+        <description><![CDATA[Регистрация и сопровождение CIFER. Обязательная аккредитация для экспорта в КНР.]]></description>
+        <params>
+          <param name="рейтинг">5.0</param>
+          <param name="число отзывов">150</param>
+          <param name="годы опыта">17</param>
+          <param name="регион">Россия</param>
+          <param name="конверсия">90%</param>
+          <param name="соцсети">t.me/agro909; linkedin.com/in/mamruko-llc-sunflower-oil; tenchat.ru/Roman_Dolgikh; facebook.com/RomanDolgikh.agro909; instagram.com/agro909</param>
+        </params>
       </offer>
       <offer id="204">
         <url>https://export-import-consulting.ru/#market-analysis</url>
-        <price>15000</price>
+        <price>100000</price>
         <currencyId>RUR</currencyId>
         <categoryId>5</categoryId>
         <name><![CDATA[Анализ рынков и экспортные стратегии]]></name>
-        <description><![CDATA[Разработка стратегии выхода на международные рынки: оценка спроса, сертификация продукции. Кейсы экспорта в СНГ, Азию и Африку. Эксперт: Роман Долгих.]]></description>
+        <description><![CDATA[Стратегии выхода на новые рынки: анализ, сертификация, проверки партнёров.]]></description>
+        <params>
+          <param name="рейтинг">5.0</param>
+          <param name="число отзывов">150</param>
+          <param name="годы опыта">17</param>
+          <param name="регион">Россия</param>
+          <param name="конверсия">90%</param>
+          <param name="соцсети">t.me/agro909; linkedin.com/in/mamruko-llc-sunflower-oil; tenchat.ru/Roman_Dolgikh; facebook.com/RomanDolgikh.agro909; instagram.com/agro909</param>
+        </params>
       </offer>
       <offer id="205">
         <url>https://export-import-consulting.ru/#company-abroad</url>
-        <price>20000</price>
+        <price>200000</price>
         <currencyId>RUR</currencyId>
         <categoryId>6</categoryId>
-        <name><![CDATA[Открытие и сопровождение фирм за рубежом (Вьетнам, Малайзия и другие страны)]]></name>
-        <description><![CDATA[Регистрация компаний в Малайзии, Вьетнаме и других странах. Международная практика и адаптация под местные законы. Эксперт: Роман Долгих.]]></description>
+        <name><![CDATA[Открытие и сопровождение фирм за рубежом]]></name>
+        <description><![CDATA[Регистрация компаний: Малайзия, Вьетнам, Азия. Международный опыт внедрения.]]></description>
+        <params>
+          <param name="рейтинг">5.0</param>
+          <param name="число отзывов">150</param>
+          <param name="годы опыта">17</param>
+          <param name="регион">Россия</param>
+          <param name="конверсия">90%</param>
+          <param name="соцсети">t.me/agro909; linkedin.com/in/mamruko-llc-sunflower-oil; tenchat.ru/Roman_Dolgikh; facebook.com/RomanDolgikh.agro909; instagram.com/agro909</param>
+        </params>
       </offer>
       <offer id="206">
         <url>https://export-import-consulting.ru/#outsourced-director-ved</url>
-        <price>25000</price>
+        <price>150000</price>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <name><![CDATA[Аутсорсинг директора по ВЭД]]></name>
-        <description><![CDATA[Услуга «директор по ВЭД» без найма в штат: управление сделками, переговоры, регистрация CIFER. Опыт Романа Долгих — 17 лет практики.]]></description>
+        <description><![CDATA[Исполняем функции директора по ВЭД: переговоры, сделки, документы.]]></description>
+        <params>
+          <param name="рейтинг">5.0</param>
+          <param name="число отзывов">150</param>
+          <param name="годы опыта">17</param>
+          <param name="регион">Россия</param>
+          <param name="конверсия">90%</param>
+          <param name="соцсети">t.me/agro909; linkedin.com/in/mamruko-llc-sunflower-oil; tenchat.ru/Roman_Dolgikh; facebook.com/RomanDolgikh.agro909; instagram.com/agro909</param>
+        </params>
       </offer>
       <offer id="207">
         <url>https://export-import-consulting.ru/#parallel-import</url>
-        <price>12000</price>
+        <price>70000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <name><![CDATA[Параллельный импорт и сопровождение поставок]]></name>
-        <description><![CDATA[Консалтинг по параллельному импорту: анализ ограничений, легальные схемы ввоза, снижение международных рисков. Эксперт: Роман Долгих.]]></description>
+        <description><![CDATA[Помощь в обходе санкций, консалтинг по закону, контроль рисков.]]></description>
+        <params>
+          <param name="рейтинг">5.0</param>
+          <param name="число отзывов">150</param>
+          <param name="годы опыта">17</param>
+          <param name="регион">Россия</param>
+          <param name="конверсия">90%</param>
+          <param name="соцсети">t.me/agro909; linkedin.com/in/mamruko-llc-sunflower-oil; tenchat.ru/Roman_Dolgikh; facebook.com/RomanDolgikh.agro909; instagram.com/agro909</param>
+        </params>
       </offer>
       <offer id="208">
         <url>https://export-import-consulting.ru/#certification</url>
-        <price>8000</price>
+        <price>60000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <name><![CDATA[Сертификация продукции для экспорта]]></name>
-        <description><![CDATA[Сертификация и аккредитация товаров для экспорта: Китай, ЕС, Азия, ОАЭ. Консультации по документам. Эксперт: Роман Долгих.]]></description>
+        <description><![CDATA[Помощь в сертификации продукции для Китая, Евросоюза и Азии.]]></description>
+        <params>
+          <param name="рейтинг">5.0</param>
+          <param name="число отзывов">150</param>
+          <param name="годы опыта">17</param>
+          <param name="регион">Россия</param>
+          <param name="конверсия">90%</param>
+          <param name="соцсети">t.me/agro909; linkedin.com/in/mamruko-llc-sunflower-oil; tenchat.ru/Roman_Dolgikh; facebook.com/RomanDolgikh.agro909; instagram.com/agro909</param>
+        </params>
       </offer>
       <offer id="209">
         <url>https://export-import-consulting.ru/#currency</url>
-        <price>9000</price>
+        <price>40000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <name><![CDATA[Международные расчёты и валютный контроль]]></name>
-        <description><![CDATA[Консультации по международным расчётам, валютному контролю, открытию зарубежных счетов и безопасным платежам. Эксперт: Роман Долгих.]]></description>
+        <description><![CDATA[Консультации по SWIFT, валютному контролю, расчетам с Азией.]]></description>
+        <params>
+          <param name="рейтинг">5.0</param>
+          <param name="число отзывов">150</param>
+          <param name="годы опыта">17</param>
+          <param name="регион">Россия</param>
+          <param name="конверсия">90%</param>
+          <param name="соцсети">t.me/agro909; linkedin.com/in/mamruko-llc-sunflower-oil; tenchat.ru/Roman_Dolgikh; facebook.com/RomanDolgikh.agro909; instagram.com/agro909</param>
+        </params>
       </offer>
       <offer id="210">
         <url>https://export-import-consulting.ru/#government-support</url>
-        <price>0</price>
+        <price>30000</price>
         <currencyId>RUR</currencyId>
         <categoryId>7</categoryId>
         <name><![CDATA[Сопровождение получения экспортных субсидий и господдержки]]></name>
-        <description><![CDATA[Помощь экспортёрам в получении субсидий и господдержки (РЭЦ, региональные фонды). Опыт сопровождения заявок. Эксперт: Роман Долгих.]]></description>
+        <description><![CDATA[Помощь в оформлении субсидий и господдержки для экспортеров.]]></description>
+        <params>
+          <param name="рейтинг">5.0</param>
+          <param name="число отзывов">150</param>
+          <param name="годы опыта">17</param>
+          <param name="регион">Россия</param>
+          <param name="конверсия">90%</param>
+          <param name="соцсети">t.me/agro909; linkedin.com/in/mamruko-llc-sunflower-oil; tenchat.ru/Roman_Dolgikh; facebook.com/RomanDolgikh.agro909; instagram.com/agro909</param>
+        </params>
       </offer>
     </offers>
   </shop>
