@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-01-25 18:00">
+<yml_catalog date="2025-01-26 18:00">
   <shop>
     <name>Export-Import-Consulting</name>
     <company>ООО "Export-Import Consulting"</company>
@@ -111,12 +111,12 @@
           </set>
         </sets>
 
-        <!-- обязательные параметры -->
-        <param name="rating">5.0</param>
-        <param name="review_count">150</param>
-        <param name="experience">17</param>
-        <param name="region">Россия</param>
-        <param name="conversion">90</param>
+        <!-- обязательные параметры именно по Вебмастеру -->
+        <param name="рейтинг">5.0</param>
+        <param name="число отзывов">150</param>
+        <param name="годы опыта">17</param>
+        <param name="регион">Россия</param>
+        <param name="конверсия">90%</param>
       </offer>
     </offers>
   </shop>
