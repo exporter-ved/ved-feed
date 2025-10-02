@@ -1,122 +1,202 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-01-26 18:00">
+<yml_catalog date="2025-01-30 12:00">
   <shop>
     <name>Export-Import-Consulting</name>
     <company>ООО "Export-Import Consulting"</company>
     <url>https://export-import-consulting.ru/</url>
-    <description><![CDATA[
-      Экспертные услуги по ВЭД: консалтинг, сопровождение экспорта и импорта, 
-      регистрация CIFER, параллельный импорт, аутсорсинг директора по ВЭД, 
-      открытие фирм за рубежом и сертификация. Практика Романа Долгих — более 17 лет.
-    ]]></description>
-
     <currencies>
       <currency id="RUB" rate="1"/>
     </currencies>
 
     <categories>
-      <category id="1"><![CDATA[Консалтинг по ВЭД]]></category>
-      <category id="2"><![CDATA[Аутсорсинг ВЭД]]></category>
-      <category id="3"><![CDATA[Практические консультации]]></category>
-      <category id="4"><![CDATA[Регистрация CIFER]]></category>
-      <category id="5"><![CDATA[Анализ рынков и стратегии]]></category>
-      <category id="6"><![CDATA[Открытие бизнеса за рубежом]]></category>
-      <category id="7"><![CDATA[Параллельный импорт и сертификация]]></category>
-      <category id="8"><![CDATA[Валютные расчёты и господдержка]]></category>
-      <category id="9"><![CDATA[Экспортный аудит]]></category>
+      <category id="1">Аутсорсинг ВЭД</category>
+      <category id="2">Консультации по ВЭД</category>
+      <category id="3">Регистрация CIFER</category>
+      <category id="4">Анализ рынков</category>
+      <category id="5">Открытие компаний за рубежом</category>
+      <category id="6">Аутсорсинг директора ВЭД</category>
+      <category id="7">Параллельный импорт</category>
+      <category id="8">Сертификация продукции</category>
+      <category id="9">Международные расчёты</category>
+      <category id="10">Господдержка экспорта</category>
+      <category id="11">Экспортный аудит</category>
     </categories>
 
     <offers>
-      <offer id="1">
+      <offer id="201">
         <name>ООО "Export-Import Consulting"</name>
-        <url>https://export-import-consulting.ru/</url>
+        <url>https://export-import-consulting.ru/ved-outsourcing</url>
+        <price>80000</price>
         <currencyId>RUB</currencyId>
-
-        <sets>
-          <set id="201">
-            <name><![CDATA[Аутсорсинг ВЭД — сопровождение деятельности]]></name>
-            <url>https://export-import-consulting.ru/ved-outsourcing</url>
-            <price>80000</price>
-            <description><![CDATA[Аутсорсинг ВЭД: выполняем функции директора. Переговоры, контракты, контроль документации и сделок. Эксперт Роман Долгих — 17 лет практики во внешнеэкономической деятельности.]]></description>
-          </set>
-
-          <set id="202">
-            <name><![CDATA[Консультация практика по ВЭД]]></name>
-            <url>https://export-import-consulting.ru/consulting</url>
-            <price>20000</price>
-            <description><![CDATA[Персональные консультации по экспорту и импорту: анализ рисков, сопровождение сделок и оптимизация процессов. Эксперт Роман Долгих — 17 лет практики и реальные кейсы.]]></description>
-          </set>
-
-          <set id="203">
-            <name><![CDATA[Регистрация CIFER для экспорта в Китай]]></name>
-            <url>https://export-import-consulting.ru/cifer</url>
-            <price>50000</price>
-            <description><![CDATA[Сопровождение процедуры регистрации CIFER для экспорта в Китай. Подготовка документов, анализ требований. Эксперт Роман Долгих с опытом реальных кейсов аккредитации.]]></description>
-          </set>
-
-          <set id="204">
-            <name><![CDATA[Анализ рынков и экспортные стратегии]]></name>
-            <url>https://export-import-consulting.ru/market-analysis</url>
-            <price>100000</price>
-            <description><![CDATA[Анализ рынков и разработка экспортных стратегий. Учет требований партнёров, сертификации и логистики. Эксперт Роман Долгих — подтвержденная практика выхода компаний в Азию.]]></description>
-          </set>
-
-          <set id="205">
-            <name><![CDATA[Открытие и сопровождение компаний за рубежом]]></name>
-            <url>https://export-import-consulting.ru/company-abroad</url>
-            <price>200000</price>
-            <description><![CDATA[Открытие и сопровождение фирм для ВЭД (Малайзия, Вьетнам, Азия). Практические кейсы сопровождения и интеграции бизнеса. Эксперт Роман Долгих, 17 лет работы в международных проектах.]]></description>
-          </set>
-
-          <set id="206">
-            <name><![CDATA[Аутсорсинг директора по ВЭД]]></name>
-            <url>https://export-import-consulting.ru/outsourced-director-ved</url>
-            <price>150000</price>
-            <description><![CDATA[Аутсорсинг директора по ВЭД: переговоры, контракты, сделки, документы. Эксперт Роман Долгих — 17 лет личного опыта руководства внешнеэкономической деятельностью.]]></description>
-          </set>
-
-          <set id="207">
-            <name><![CDATA[Параллельный импорт и сопровождение поставок]]></name>
-            <url>https://export-import-consulting.ru/parallel-import</url>
-            <price>70000</price>
-            <description><![CDATA[Консультации по параллельному импорту: законные решения, оценка и снижение рисков, сопровождение поставок. Эксперт Роман Долгих, практика более 17 лет во ВЭД.]]></description>
-          </set>
-
-          <set id="208">
-            <name><![CDATA[Сертификация продукции для экспорта]]></name>
-            <url>https://export-import-consulting.ru/certification</url>
-            <price>60000</price>
-            <description><![CDATA[Сертификация продукции для экспорта в Китай, ЕС и Азию. Практический опыт и сопровождение. Эксперт Роман Долгих, более 17 лет работы с международными требованиями.]]></description>
-          </set>
-
-          <set id="209">
-            <name><![CDATA[Международные расчёты и валютный контроль]]></name>
-            <url>https://export-import-consulting.ru/currency</url>
-            <price>40000</price>
-            <description><![CDATA[Консультирование по международным расчётам и валютному контролю. SWIFT, платежи с Китаем и странами Азии. Эксперт Роман Долгих — практика сопровождения сделок с 2007 года.]]></description>
-          </set>
-
-          <set id="210">
-            <name><![CDATA[Сопровождение получения экспортных субсидий и господдержки]]></name>
-            <url>https://export-import-consulting.ru/government-support</url>
-            <price>30000</price>
-            <description><![CDATA[Сопровождение при получении экспортных субсидий и господдержки. Подготовка документов и сопровождение компаний. Эксперт Роман Долгих, реальный опыт участия в программах поддержки.]]></description>
-          </set>
-
-          <set id="211">
-            <name><![CDATA[Экспортный аудит компании]]></name>
-            <url>https://export-import-consulting.ru/export-audit</url>
-            <price>50000</price>
-            <description><![CDATA[Экспортный аудит компании: проверка готовности к выходу на рынок. Анализ контрактов, финансов, логистики и сертификации. Эксперт Роман Долгих — 17 лет практики во внешнеэкономической деятельности.]]></description>
-          </set>
-        </sets>
-
-        <!-- обязательные параметры именно по Вебмастеру -->
+        <categoryId>1</categoryId>
+        <set-ids>s201</set-ids>
+        <picture>https://static.tildacdn.com/tild3761-3162-4032-b034-663163633231/noroot.png</picture>
+        <description>Аутсорсинг ВЭД: функции директора, переговоры, контракты, сделки и контроль документации. Эксперт Роман Долгих — 17 лет практики.</description>
         <param name="рейтинг">5.0</param>
-        <param name="число отзывов">150</param>
-        <param name="годы опыта">17</param>
-        <param name="регион">Россия</param>
-        <param name="конверсия">90%</param>
+        <param name="Число отзывов">150</param>
+        <param name="Годы опыта">17</param>
+        <param name="Регион">Россия</param>
+        <param name="Конверсия">90%</param>
+      </offer>
+
+      <offer id="202">
+        <name>ООО "Export-Import Consulting"</name>
+        <url>https://export-import-consulting.ru/consulting</url>
+        <price>20000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <set-ids>s202</set-ids>
+        <picture>https://static.tildacdn.com/tild6333-6434-4138-b632-383632653564/noroot.png</picture>
+        <description>Консультации по экспорту и импорту: анализ рисков, сопровождение сделок и оптимизация процессов. Эксперт Роман Долгих, 17 лет практики.</description>
+        <param name="рейтинг">5.0</param>
+        <param name="Число отзывов">150</param>
+        <param name="Годы опыта">17</param>
+        <param name="Регион">Россия</param>
+        <param name="Конверсия">90%</param>
+      </offer>
+
+      <offer id="203">
+        <name>ООО "Export-Import Consulting"</name>
+        <url>https://export-import-consulting.ru/cifer</url>
+        <price>50000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <set-ids>s203</set-ids>
+        <picture>https://static.tildacdn.com/tild6636-6335-4730-a265-336334313537/noroot.png</picture>
+        <description>Сопровождение регистрации CIFER для экспорта в Китай. Эксперт Роман Долгих, реальный опыт прохождения процедуры.</description>
+        <param name="рейтинг">5.0</param>
+        <param name="Число отзывов">150</param>
+        <param name="Годы опыта">17</param>
+        <param name="Регион">Россия</param>
+        <param name="Конверсия">90%</param>
+      </offer>
+
+      <offer id="204">
+        <name>ООО "Export-Import Consulting"</name>
+        <url>https://export-import-consulting.ru/market-analysis</url>
+        <price>100000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <set-ids>s204</set-ids>
+        <picture>https://static.tildacdn.com/tild6338-3436-4136-b762-643062663663/noroot.png</picture>
+        <description>Анализ рынков и экспортные стратегии: практика выхода компаний, сертификация и проверка партнёров. Эксперт Роман Долгих.</description>
+        <param name="рейтинг">5.0</param>
+        <param name="Число отзывов">150</param>
+        <param name="Годы опыта">17</param>
+        <param name="Регион">Россия</param>
+        <param name="Конверсия">90%</param>
+      </offer>
+
+      <offer id="205">
+        <name>ООО "Export-Import Consulting"</name>
+        <url>https://export-import-consulting.ru/company-abroad</url>
+        <price>200000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <set-ids>s205</set-ids>
+        <picture>https://static.tildacdn.com/tild3161-6561-4734-b064-306364353662/___.JPG</picture>
+        <description>Открытие и сопровождение фирм за рубежом (Малайзия, Вьетнам, Азия). Реальные кейсы и практика. Эксперт Роман Долгих.</description>
+        <param name="рейтинг">5.0</param>
+        <param name="Число отзывов">150</param>
+        <param name="Годы опыта">17</param>
+        <param name="Регион">Россия</param>
+        <param name="Конверсия">90%</param>
+      </offer>
+
+      <offer id="206">
+        <name>ООО "Export-Import Consulting"</name>
+        <url>https://export-import-consulting.ru/outsourced-director-ved</url>
+        <price>150000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <set-ids>s206</set-ids>
+        <picture>https://static.tildacdn.com/tild3862-3562-4163-b464-323962353531/-___2025_______.jpeg</picture>
+        <description>Аутсорсинг директора по ВЭД: переговоры, сделки и документация. Эксперт Роман Долгих, 17 лет практики руководства ВЭД.</description>
+        <param name="рейтинг">5.0</param>
+        <param name="Число отзывов">150</param>
+        <param name="Годы опыта">17</param>
+        <param name="Регион">Россия</param>
+        <param name="Конверсия">90%</param>
+      </offer>
+
+      <offer id="207">
+        <name>ООО "Export-Import Consulting"</name>
+        <url>https://export-import-consulting.ru/parallel-import</url>
+        <price>70000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <set-ids>s207</set-ids>
+        <picture>https://static.tildacdn.com/tild3934-6361-4639-b034-623761663732/__Fresh_Antalya__.jpeg</picture>
+        <description>Параллельный импорт: законные решения и снижение рисков, сопровождение поставок. Эксперт Роман Долгих.</description>
+        <param name="рейтинг">5.0</param>
+        <param name="Число отзывов">150</param>
+        <param name="Годы опыта">17</param>
+        <param name="Регион">Россия</param>
+        <param name="Конверсия">90%</param>
+      </offer>
+
+      <offer id="208">
+        <name>ООО "Export-Import Consulting"</name>
+        <url>https://export-import-consulting.ru/certification</url>
+        <price>60000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <set-ids>s208</set-ids>
+        <picture>https://static.tildacdn.com/tild3930-6665-4937-b166-663434666535/noroot.png</picture>
+        <description>Сертификация продукции для экспорта: Китай, ЕС и Азия. Эксперт Роман Долгих, опыт сопровождения международной сертификации.</description>
+        <param name="рейтинг">5.0</param>
+        <param name="Число отзывов">150</param>
+        <param name="Годы опыта">17</param>
+        <param name="Регион">Россия</param>
+        <param name="Конверсия">90%</param>
+      </offer>
+
+      <offer id="209">
+        <name>ООО "Export-Import Consulting"</name>
+        <url>https://export-import-consulting.ru/currency</url>
+        <price>40000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <set-ids>s209</set-ids>
+        <picture>https://static.tildacdn.com/tild3732-6639-4363-a564-353637663431/noroot.png</picture>
+        <description>Международные расчёты и валютный контроль: SWIFT, работа с Азией. Эксперт Роман Долгих, практика с 2007 года.</description>
+        <param name="рейтинг">5.0</param>
+        <param name="Число отзывов">150</param>
+        <param name="Годы опыта">17</param>
+        <param name="Регион">Россия</param>
+        <param name="Конверсия">90%</param>
+      </offer>
+
+      <offer id="210">
+        <name>ООО "Export-Import Consulting"</name>
+        <url>https://export-import-consulting.ru/government-support</url>
+        <price>30000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <set-ids>s210</set-ids>
+        <picture>https://static.tildacdn.com/tild3166-3539-4738-b630-643835636530/noroot.png</picture>
+        <description>Сопровождение получения экспортных субсидий и господдержки. Эксперт Роман Долгих — опыт работы с программами поддержки.</description>
+        <param name="рейтинг">5.0</param>
+        <param name="Число отзывов">150</param>
+        <param name="Годы опыта">17</param>
+        <param name="Регион">Россия</param>
+        <param name="Конверсия">90%</param>
+      </offer>
+
+      <offer id="211">
+        <name>ООО "Export-Import Consulting"</name>
+        <url>https://export-import-consulting.ru/export-audit</url>
+        <price>50000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <set-ids>s211</set-ids>
+        <picture>https://static.tildacdn.com/tild3837-3139-4631-b161-663537316439/____.jpg</picture>
+        <description>Экспортный аудит компании: проверка готовности к международному рынку. Анализ контрактов, финансов и логистики. Эксперт Роман Долгих.</description>
+        <param name="рейтинг">5.0</param>
+        <param name="Число отзывов">150</param>
+        <param name="Годы опыта">17</param>
+        <param name="Регион">Россия</param>
+        <param name="Конверсия">90%</param>
       </offer>
     </offers>
   </shop>
