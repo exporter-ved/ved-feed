@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-01-30 12:00">
+<yml_catalog date="2025-02-05 12:00">
   <shop>
     <name>Export-Import-Consulting</name>
     <company>ООО "Export-Import Consulting"</company>
     <url>https://export-import-consulting.ru/</url>
+
     <currencies>
       <currency id="RUB" rate="1"/>
     </currencies>
@@ -22,7 +23,55 @@
       <category id="11">Экспортный аудит</category>
     </categories>
 
+    <sets>
+      <set id="s201">
+        <name>Аутсорсинг ВЭД</name>
+        <url>https://export-import-consulting.ru/ved-outsourcing</url>
+      </set>
+      <set id="s202">
+        <name>Консультации по ВЭД</name>
+        <url>https://export-import-consulting.ru/consulting</url>
+      </set>
+      <set id="s203">
+        <name>Регистрация CIFER в Китае</name>
+        <url>https://export-import-consulting.ru/cifer</url>
+      </set>
+      <set id="s204">
+        <name>Анализ рынков и экспортные стратегии</name>
+        <url>https://export-import-consulting.ru/market-analysis</url>
+      </set>
+      <set id="s205">
+        <name>Открытие и сопровождение компаний за рубежом</name>
+        <url>https://export-import-consulting.ru/company-abroad</url>
+      </set>
+      <set id="s206">
+        <name>Аутсорсинг директора по ВЭД</name>
+        <url>https://export-import-consulting.ru/outsourced-director-ved</url>
+      </set>
+      <set id="s207">
+        <name>Параллельный импорт</name>
+        <url>https://export-import-consulting.ru/parallel-import</url>
+      </set>
+      <set id="s208">
+        <name>Сертификация продукции для экспорта</name>
+        <url>https://export-import-consulting.ru/certification</url>
+      </set>
+      <set id="s209">
+        <name>Международные расчёты и валютный контроль</name>
+        <url>https://export-import-consulting.ru/currency</url>
+      </set>
+      <set id="s210">
+        <name>Субсидии и господдержка экспорта</name>
+        <url>https://export-import-consulting.ru/government-support</url>
+      </set>
+      <set id="s211">
+        <name>Экспортный аудит компании</name>
+        <url>https://export-import-consulting.ru/export-audit</url>
+      </set>
+    </sets>
+
     <offers>
+
       <offer id="201">
         <name>ООО "Export-Import Consulting"</name>
         <url>https://export-import-consulting.ru/ved-outsourcing</url>
@@ -32,7 +81,7 @@
         <set-ids>s201</set-ids>
         <picture>https://static.tildacdn.com/tild3761-3162-4032-b034-663163633231/noroot.png</picture>
         <description>Аутсорсинг ВЭД: функции директора, переговоры, контракты, сделки и контроль документации. Эксперт Роман Долгих — 17 лет практики.</description>
-        <param name="рейтинг">5.0</param>
+        <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
@@ -48,7 +97,7 @@
         <set-ids>s202</set-ids>
         <picture>https://static.tildacdn.com/tild6333-6434-4138-b632-383632653564/noroot.png</picture>
         <description>Консультации по экспорту и импорту: анализ рисков, сопровождение сделок и оптимизация процессов. Эксперт Роман Долгих, 17 лет практики.</description>
-        <param name="рейтинг">5.0</param>
+        <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
@@ -64,7 +113,7 @@
         <set-ids>s203</set-ids>
         <picture>https://static.tildacdn.com/tild6636-6335-4730-a265-336334313537/noroot.png</picture>
         <description>Сопровождение регистрации CIFER для экспорта в Китай. Эксперт Роман Долгих, реальный опыт прохождения процедуры.</description>
-        <param name="рейтинг">5.0</param>
+        <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
@@ -80,7 +129,7 @@
         <set-ids>s204</set-ids>
         <picture>https://static.tildacdn.com/tild6338-3436-4136-b762-643062663663/noroot.png</picture>
         <description>Анализ рынков и экспортные стратегии: практика выхода компаний, сертификация и проверка партнёров. Эксперт Роман Долгих.</description>
-        <param name="рейтинг">5.0</param>
+        <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
@@ -96,7 +145,7 @@
         <set-ids>s205</set-ids>
         <picture>https://static.tildacdn.com/tild3161-6561-4734-b064-306364353662/___.JPG</picture>
         <description>Открытие и сопровождение фирм за рубежом (Малайзия, Вьетнам, Азия). Реальные кейсы и практика. Эксперт Роман Долгих.</description>
-        <param name="рейтинг">5.0</param>
+        <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
@@ -112,7 +161,7 @@
         <set-ids>s206</set-ids>
         <picture>https://static.tildacdn.com/tild3862-3562-4163-b464-323962353531/-___2025_______.jpeg</picture>
         <description>Аутсорсинг директора по ВЭД: переговоры, сделки и документация. Эксперт Роман Долгих, 17 лет практики руководства ВЭД.</description>
-        <param name="рейтинг">5.0</param>
+        <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
@@ -128,7 +177,7 @@
         <set-ids>s207</set-ids>
         <picture>https://static.tildacdn.com/tild3934-6361-4639-b034-623761663732/__Fresh_Antalya__.jpeg</picture>
         <description>Параллельный импорт: законные решения и снижение рисков, сопровождение поставок. Эксперт Роман Долгих.</description>
-        <param name="рейтинг">5.0</param>
+        <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
@@ -144,7 +193,7 @@
         <set-ids>s208</set-ids>
         <picture>https://static.tildacdn.com/tild3930-6665-4937-b166-663434666535/noroot.png</picture>
         <description>Сертификация продукции для экспорта: Китай, ЕС и Азия. Эксперт Роман Долгих, опыт сопровождения международной сертификации.</description>
-        <param name="рейтинг">5.0</param>
+        <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
@@ -160,7 +209,7 @@
         <set-ids>s209</set-ids>
         <picture>https://static.tildacdn.com/tild3732-6639-4363-a564-353637663431/noroot.png</picture>
         <description>Международные расчёты и валютный контроль: SWIFT, работа с Азией. Эксперт Роман Долгих, практика с 2007 года.</description>
-        <param name="рейтинг">5.0</param>
+        <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
@@ -176,7 +225,7 @@
         <set-ids>s210</set-ids>
         <picture>https://static.tildacdn.com/tild3166-3539-4738-b630-643835636530/noroot.png</picture>
         <description>Сопровождение получения экспортных субсидий и господдержки. Эксперт Роман Долгих — опыт работы с программами поддержки.</description>
-        <param name="рейтинг">5.0</param>
+        <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
@@ -192,12 +241,13 @@
         <set-ids>s211</set-ids>
         <picture>https://static.tildacdn.com/tild3837-3139-4631-b161-663537316439/____.jpg</picture>
         <description>Экспортный аудит компании: проверка готовности к международному рынку. Анализ контрактов, финансов и логистики. Эксперт Роман Долгих.</description>
-        <param name="рейтинг">5.0</param>
+        <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
         <param name="Конверсия">90</param>
       </offer>
+
     </offers>
   </shop>
 </yml_catalog>
