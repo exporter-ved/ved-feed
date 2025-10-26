@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <yml_catalog date="2025-02-10 12:00">
   <shop>
-    <name>Export Import Consulting — Услуги ВЭД</name>
+    <name>Роман Долгих ВЭД консалтинг</name>
     <company>ООО "Export Import Consulting"</company>
     <url>https://export-import-consulting.ru/</url>
 
@@ -55,6 +55,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="002">
@@ -70,6 +71,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="003">
@@ -85,6 +87,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="004">
@@ -100,6 +103,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="005">
@@ -115,6 +119,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="006">
@@ -130,6 +135,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="007">
@@ -145,6 +151,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="008">
@@ -160,6 +167,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="009">
@@ -175,6 +183,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="010">
@@ -190,6 +199,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="011">
@@ -205,6 +215,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="012">
@@ -220,6 +231,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="013">
@@ -235,6 +247,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="014">
@@ -250,6 +263,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="015">
@@ -265,6 +279,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="016">
@@ -280,6 +295,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="017">
@@ -295,6 +311,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="018">
@@ -310,6 +327,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="019">
@@ -325,6 +343,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="020">
@@ -340,6 +359,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="021">
@@ -355,6 +375,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="022">
@@ -370,6 +391,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="023">
@@ -385,6 +407,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="024">
@@ -400,6 +423,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="025">
@@ -415,6 +439,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="026">
@@ -430,6 +455,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="027">
@@ -445,6 +471,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="028">
@@ -460,6 +487,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="029">
@@ -475,6 +503,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="030">
@@ -490,6 +519,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="031">
@@ -505,6 +535,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="032">
@@ -520,6 +551,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="033">
@@ -535,6 +567,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="034">
@@ -550,6 +583,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="035">
@@ -565,6 +599,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="036">
@@ -580,6 +615,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="037">
@@ -595,6 +631,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="038">
@@ -610,6 +647,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
 
       <offer id="039">
@@ -625,6 +663,7 @@
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
         <param name="Регион">Россия</param>
+        <param name="Конверсия">95</param>
       </offer>
     </offers>
   </shop>
