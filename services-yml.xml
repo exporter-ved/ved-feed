@@ -43,7 +43,7 @@
 
     <offers>
       <offer id="001">
-        <name>Аутсорсинг ВЭД</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/ved-outsourcing</url>
         <price>96000</price>
         <currencyId>RUB</currencyId>
@@ -59,7 +59,7 @@
       </offer>
 
       <offer id="002">
-        <name>Консультации по ВЭД</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/consulting</url>
         <price>24000</price>
         <currencyId>RUB</currencyId>
@@ -75,7 +75,7 @@
       </offer>
 
       <offer id="003">
-        <name>Регистрация CIFER в Китае</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/cifer</url>
         <price>60000</price>
         <currencyId>RUB</currencyId>
@@ -91,7 +91,7 @@
       </offer>
 
       <offer id="004">
-        <name>Анализ рынков и экспортные стратегии</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/market-analysis</url>
         <price>66000</price>
         <currencyId>RUB</currencyId>
@@ -107,7 +107,7 @@
       </offer>
 
       <offer id="005">
-        <name>Открытие компаний за рубежом</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/company-abroad</url>
         <price>84000</price>
         <currencyId>RUB</currencyId>
@@ -123,7 +123,7 @@
       </offer>
 
       <offer id="006">
-        <name>Аутсорсинг директора по ВЭД</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/outsourced-director-ved</url>
         <price>180000</price>
         <currencyId>RUB</currencyId>
@@ -139,7 +139,7 @@
       </offer>
 
       <offer id="007">
-        <name>Параллельный импорт</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/parallel-import</url>
         <price>84000</price>
         <currencyId>RUB</currencyId>
@@ -155,7 +155,7 @@
       </offer>
 
       <offer id="008">
-        <name>Сертификация продукции для экспорта</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/certification</url>
         <price>72000</price>
         <currencyId>RUB</currencyId>
@@ -171,7 +171,7 @@
       </offer>
 
       <offer id="009">
-        <name>Международные расчёты и валютный контроль</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/currency</url>
         <price>48000</price>
         <currencyId>RUB</currencyId>
@@ -187,7 +187,7 @@
       </offer>
 
       <offer id="010">
-        <name>Господдержка и субсидии экспорта</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/government-support</url>
         <price>36000</price>
         <currencyId>RUB</currencyId>
@@ -203,7 +203,7 @@
       </offer>
 
       <offer id="011">
-        <name>Экспортный аудит компании</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/export-audit</url>
         <price>60000</price>
         <currencyId>RUB</currencyId>
@@ -219,7 +219,7 @@
       </offer>
 
       <offer id="012">
-        <name>Аудит внешнеэкономических контрактов</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/contract-audit</url>
         <price>48000</price>
         <currencyId>RUB</currencyId>
@@ -235,7 +235,7 @@
       </offer>
 
       <offer id="013">
-        <name>Регистрация товарного знака для экспорта</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/trademark</url>
         <price>78000</price>
         <currencyId>RUB</currencyId>
@@ -251,7 +251,7 @@
       </offer>
 
       <offer id="014">
-        <name>Возврат НДС экспортёрам</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/vat-refund</url>
         <price>54000</price>
         <currencyId>RUB</currencyId>
@@ -267,7 +267,7 @@
       </offer>
 
       <offer id="015">
-        <name>Подготовка и согласование экспортных контрактов</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/export-contracts</url>
         <price>40000</price>
         <currencyId>RUB</currencyId>
@@ -283,7 +283,7 @@
       </offer>
 
       <offer id="016">
-        <name>Аудит и оптимизация логистики ВЭД</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/logistics-audit</url>
         <price>66000</price>
         <currencyId>RUB</currencyId>
@@ -299,7 +299,7 @@
       </offer>
 
       <offer id="017">
-        <name>Оформление комплекта документов для экспорта и импорта</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/ved-docs</url>
         <price>42000</price>
         <currencyId>RUB</currencyId>
@@ -315,7 +315,7 @@
       </offer>
 
       <offer id="018">
-        <name>Валютный контроль и международные расчёты</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/currency-control</url>
         <price>30000</price>
         <currencyId>RUB</currencyId>
@@ -331,7 +331,7 @@
       </offer>
 
       <offer id="019">
-        <name>Господдержка и субсидии для экспортёров</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/export-support</url>
         <price>30000</price>
         <currencyId>RUB</currencyId>
@@ -347,7 +347,7 @@
       </offer>
 
       <offer id="020">
-        <name>Экспортный маркетинг и поиск иностранных партнёров</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/export-marketing</url>
         <price>84000</price>
         <currencyId>RUB</currencyId>
@@ -363,7 +363,7 @@
       </offer>
 
       <offer id="021">
-        <name>Сертификация и регистрация в CIFER (Китай)</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/china-certification</url>
         <price>96000</price>
         <currencyId>RUB</currencyId>
@@ -379,7 +379,7 @@
       </offer>
 
       <offer id="022">
-        <name>Аналитика рынков Азии и Ближнего Востока</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/asia-markets</url>
         <price>72000</price>
         <currencyId>RUB</currencyId>
@@ -395,7 +395,7 @@
       </offer>
 
       <offer id="023">
-        <name>Бухгалтерия и отчётность по ВЭД</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/ved-accounting</url>
         <price>60000</price>
         <currencyId>RUB</currencyId>
@@ -411,7 +411,7 @@
       </offer>
 
       <offer id="024">
-        <name>Юридическое сопровождение внешнеторговых операций</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/ved-legal</url>
         <price>66000</price>
         <currencyId>RUB</currencyId>
@@ -427,7 +427,7 @@
       </offer>
 
       <offer id="025">
-        <name>Экспортные презентации и коммерческие предложения</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/export-presentation</url>
         <price>78000</price>
         <currencyId>RUB</currencyId>
@@ -443,7 +443,7 @@
       </offer>
 
       <offer id="026">
-        <name>Выход на рынок Китая</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/china-market-access</url>
         <price>84000</price>
         <currencyId>RUB</currencyId>
@@ -459,7 +459,7 @@
       </offer>
 
       <offer id="027">
-        <name>Проверка контрагентов и иностранных партнёров</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/export-verification</url>
         <price>30000</price>
         <currencyId>RUB</currencyId>
@@ -475,7 +475,7 @@
       </offer>
 
       <offer id="028">
-        <name>Экспорт в Африку</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/export-africa</url>
         <price>78000</price>
         <currencyId>RUB</currencyId>
@@ -491,7 +491,7 @@
       </offer>
 
       <offer id="029">
-        <name>Аналитика рынков Африки и поиск партнёров</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/africa-market-analysis</url>
         <price>72000</price>
         <currencyId>RUB</currencyId>
@@ -507,7 +507,7 @@
       </offer>
 
       <offer id="030">
-        <name>Брендинг для экспорта</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/export-branding</url>
         <price>72000</price>
         <currencyId>RUB</currencyId>
@@ -523,7 +523,7 @@
       </offer>
 
       <offer id="031">
-        <name>Экспортные B2B переговоры и поиск партнёров</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/b2b-negotiations</url>
         <price>78000</price>
         <currencyId>RUB</currencyId>
@@ -539,7 +539,7 @@
       </offer>
 
       <offer id="032">
-        <name>Экспорт в Гану</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/export-ghana</url>
         <price>78000</price>
         <currencyId>RUB</currencyId>
@@ -555,7 +555,7 @@
       </offer>
 
       <offer id="033">
-        <name>Сертификация для экспорта в Африку</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/africa-certification</url>
         <price>60000</price>
         <currencyId>RUB</currencyId>
@@ -571,7 +571,7 @@
       </offer>
 
       <offer id="034">
-        <name>Поиск B2B партнёров в Африке</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/africa-b2b-partners</url>
         <price>84000</price>
         <currencyId>RUB</currencyId>
@@ -587,7 +587,7 @@
       </offer>
 
       <offer id="035">
-        <name>Логистика экспорта в Африку</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/africa-logistics</url>
         <price>66000</price>
         <currencyId>RUB</currencyId>
@@ -603,7 +603,7 @@
       </offer>
 
       <offer id="036">
-        <name>Открытие компании в Малайзии</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/company-malaysia</url>
         <price>90000</price>
         <currencyId>RUB</currencyId>
@@ -619,7 +619,7 @@
       </offer>
 
       <offer id="037">
-        <name>Поиск партнёров в Малайзии</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/malaysia-b2b-partners</url>
         <price>84000</price>
         <currencyId>RUB</currencyId>
@@ -635,7 +635,7 @@
       </offer>
 
       <offer id="038">
-        <name>Открытие компании во Вьетнаме</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/company-vietnam</url>
         <price>90000</price>
         <currencyId>RUB</currencyId>
@@ -651,7 +651,7 @@
       </offer>
 
       <offer id="039">
-        <name>Поиск партнёров во Вьетнаме</name>
+        <name>Роман Долгих</name>
         <url>https://export-import-consulting.ru/vietnam-b2b-partners</url>
         <price>84000</price>
         <currencyId>RUB</currencyId>
