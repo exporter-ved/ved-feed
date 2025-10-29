@@ -10,31 +10,31 @@
     </currencies>
 
     <sets>
-      <set id="s1"><name>Услуги по ВЭД консалтингу в России</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s2"><name>Аутсорсинг внешнеэкономической деятельности</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s3"><name>Консультации по экспорту и импорту</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s4"><name>Регистрация и сертификация для экспорта</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s5"><name>Выход на международные рынки</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s6"><name>Аудит внешнеэкономической деятельности</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s7"><name>Юридическое сопровождение ВЭД</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s8"><name>Бухгалтерские услуги для экспортёров</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s9"><name>Логистика и таможенное оформление</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s10"><name>Международные расчёты и валютный контроль</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s11"><name>Господдержка и субсидии экспортёров</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s12"><name>Экспортный маркетинг и поиск партнёров</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s13"><name>Брендинг для международных рынков</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s14"><name>Регистрация компаний за рубежом</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s15"><name>Экспорт в Китай и страны Азии</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s16"><name>Экспорт в страны Африки</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s17"><name>Сертификация продукции для экспорта</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s18"><name>Подготовка экспортной документации</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s19"><name>Параллельный импорт и поставки</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s20"><name>Налоговое сопровождение экспортёров</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s21"><name>ВЭД контракты и договоры</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s22"><name>Анализ зарубежных рынков</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s23"><name>Поиск иностранных партнёров</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s24"><name>Регистрация товарных знаков</name><url>https://export-import-consulting.ru/</url></set>
-      <set id="s25"><name>Сопровождение экспортных сделок</name><url>https://export-import-consulting.ru/</url></set>
+      <set id="s1"><name>Аутсорсинг ВЭД</name><url>https://export-import-consulting.ru/ved-outsourcing</url></set>
+      <set id="s2"><name>Консультации по ВЭД</name><url>https://export-import-consulting.ru/consulting</url></set>
+      <set id="s3"><name>ВЭД для Китая</name><url>https://export-import-consulting.ru/cifer</url></set>
+      <set id="s4"><name>Аналитика рынков</name><url>https://export-import-consulting.ru/market-analysis</url></set>
+      <set id="s5"><name>Компании за рубежом</name><url>https://export-import-consulting.ru/company-abroad</url></set>
+      <set id="s6"><name>Аудит ВЭД</name><url>https://export-import-consulting.ru/export-audit</url></set>
+      <set id="s7"><name>Юридические услуги ВЭД</name><url>https://export-import-consulting.ru/ved-legal</url></set>
+      <set id="s8"><name>Бухгалтерия ВЭД</name><url>https://export-import-consulting.ru/ved-accounting</url></set>
+      <set id="s9"><name>Логистика ВЭД</name><url>https://export-import-consulting.ru/logistics-audit</url></set>
+      <set id="s10"><name>Международные расчеты</name><url>https://export-import-consulting.ru/currency</url></set>
+      <set id="s11"><name>Господдержка экспорта</name><url>https://export-import-consulting.ru/government-support</url></set>
+      <set id="s12"><name>Экспортный маркетинг</name><url>https://export-import-consulting.ru/export-marketing</url></set>
+      <set id="s13"><name>Брендинг для экспорта</name><url>https://export-import-consulting.ru/export-branding</url></set>
+      <set id="s14"><name>Сертификация продукции</name><url>https://export-import-consulting.ru/certification</url></set>
+      <set id="s15"><name>Экспорт в Африку</name><url>https://export-import-consulting.ru/export-africa</url></set>
+      <set id="s16"><name>Параллельный импорт</name><url>https://export-import-consulting.ru/parallel-import</url></set>
+      <set id="s17"><name>Налоги экспортёров</name><url>https://export-import-consulting.ru/vat-refund</url></set>
+      <set id="s18"><name>ВЭД контракты</name><url>https://export-import-consulting.ru/export-contracts</url></set>
+      <set id="s19"><name>Документация ВЭД</name><url>https://export-import-consulting.ru/ved-docs</url></set>
+      <set id="s20"><name>Поиск партнёров</name><url>https://export-import-consulting.ru/export-verification</url></set>
+      <set id="s21"><name>Товарные знаки</name><url>https://export-import-consulting.ru/trademark</url></set>
+      <set id="s22"><name>ВЭД презентации</name><url>https://export-import-consulting.ru/export-presentation</url></set>
+      <set id="s23"><name>ВЭД для Азии</name><url>https://export-import-consulting.ru/asia-markets</url></set>
+      <set id="s24"><name>Бизнес в Малайзии</name><url>https://export-import-consulting.ru/company-malaysia</url></set>
+      <set id="s25"><name>Бизнес во Вьетнаме</name><url>https://export-import-consulting.ru/company-vietnam</url></set>
     </sets>
 
     <categories>
@@ -49,8 +49,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3761-3162-4032-b034-663163633231/noroot.png</picture>
-        <description>Выполняем функции директора по ВЭД: переговоры, контракты, сделки и документация. Эксперт Роман Долгих — 17 лет практики.</description>
-        <set_ids>s1,s2</set_ids>
+        <description>Аутсорсинг ВЭД: выполняем функции директора по внешнеэкономической деятельности. Ведем переговоры с иностранными партнерами, готовим контракты по ИНКОТЕРМС, оформляем документацию для таможни. Практический опыт 17 лет в международной торговле — Роман Долгих.</description>
+        <set_ids>s1,s9</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -65,8 +65,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6333-6434-4138-b632-383632653564/noroot.png</picture>
-        <description>Персональные консультации по экспорту и импорту: анализ рисков, сопровождение сделок и ответы на вопросы бизнеса. Роман Долгих — 17 лет практики.</description>
-        <set_ids>s1,s3</set_ids>
+        <description>Консультации по ВЭД: персональные консультации по экспорту и импорту товаров. Анализ рисков внешнеэкономических сделок, сопровождение международных операций, ответы на вопросы по таможенному оформлению. Опыт 17 лет — Роман Долгих.</description>
+        <set_ids>s2,s6</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -81,8 +81,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6636-6335-4730-a265-336334313537/noroot.png</picture>
-        <description>Сопровождение регистрации CIFER для экспорта в Китай. Реальные кейсы и опыт прохождения аккредитации. Эксперт Роман Долгих.</description>
-        <set_ids>s4,s15</set_ids>
+        <description>Регистрация CIFER для экспорта в Китай: сопровождение аккредитации предприятий в китайской системе CIFER. Подготовка документов, взаимодействие с китайскими регуляторами, практический опыт прохождения процедур. Роман Долгих — 17 лет в ВЭД.</description>
+        <set_ids>s3,s14</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -97,8 +97,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6338-3436-4136-b762-643062663663/noroot.png</picture>
-        <description>Платный анализ рынков и разработка экспортных стратегий. Прогноз спроса и коммерческие решения. Эксперт Роман Долгих.</description>
-        <set_ids>s5,s22</set_ids>
+        <description>Анализ рынков и экспортные стратегии: исследование зарубежных рынков для российских экспортёров. Разработка стратегий выхода на международные рынки, оценка спроса и конкурентной среды. Практика 17 лет — Роман Долгих.</description>
+        <set_ids>s4,s23</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -113,8 +113,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3161-6561-4734-b064-306364353662/___.JPG</picture>
-        <description>Регистрация фирм для экспортной деятельности в Азии и ОАЭ. Пошаговое сопровождение компаний и юридическая помощь.</description>
-        <set_ids>s5,s14</set_ids>
+        <description>Открытие компаний за рубежом для ВЭД: регистрация юридических лиц в Азии и ОАЭ для экспортно-импортных операций. Сопровождение процесса регистрации, помощь в открытии счетов, консультации по международному налоговому планированию. Роман Долгих — 17 лет практики.</description>
+        <set_ids>s5,s24,s25</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -129,8 +129,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3862-3562-4163-b464-323962353531/-___2025_______.jpeg</picture>
-        <description>Исполнение функций директора ВЭД: переговоры, сделки, контроль документов. Роман Долгих — 17 лет опыта в управлении ВЭД.</description>
-        <set_ids>s1,s2</set_ids>
+        <description>Аутсорсинг директора по ВЭД: исполнение функций руководителя внешнеэкономической деятельности компании. Стратегическое планирование экспортных операций, контроль международных сделок, управление валютными рисками. Опыт управления ВЭД 17 лет — Роман Долгих.</description>
+        <set_ids>s1,s7</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -140,13 +140,13 @@
 
       <offer id="007">
         <name>Роман Долгих</name>
-        <url>https://export-import-consulting.ru/parallel-import</url>
+        <url>https://export-import-consulting.ru/parallel-import</name>
         <price>84000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3934-6361-4639-b034-623761663732/__Fresh_Antalya__.jpeg</picture>
-        <description>Законные схемы параллельного импорта, сопровождение поставок и снижение рисков. Практика Романа Долгих.</description>
-        <set_ids>s19</set_ids>
+        <description>Параллельный импорт: законные схемы ввоза товаров в обход официальных дистрибьюторов. Сопровождение поставок, минимизация юридических рисков, работа с таможенными органами. Практический опыт в ВЭД 17 лет — Роман Долгих.</description>
+        <set_ids>s16</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -161,8 +161,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3930-6665-4937-b166-663434666535/noroot.png</picture>
-        <description>Сертификаты соответствия для экспорта в Китай, ЕС и Азию. Опытное сопровождение сертификационных процессов.</description>
-        <set_ids>s4,s17</set_ids>
+        <description>Сертификация продукции для экспорта: оформление сертификатов соответствия для вывода товаров на международные рынки. Взаимодействие с сертификационными органами Китая, ЕС, стран Азии. Опыт 17 лет в ВЭД — Роман Долгих.</description>
+        <set_ids>s14</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -177,7 +177,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3732-6639-4363-a564-353637663431/noroot.png</picture>
-        <description>Консультации по SWIFT и расчётам с зарубежными партнёрами. Практическая экспертиза с 2007 года.</description>
+        <description>Международные расчёты и валютный контроль: консультации по организации расчетов с иностранными контрагентами. Работа с паспортами сделок, валютным законодательством, банковскими операциями. Практика с 2007 года — Роман Долгих.</description>
         <set_ids>s10</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
@@ -193,7 +193,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3166-3539-4738-b630-643835636530/noroot.png</picture>
-        <description>Оформление экспортных субсидий и господдержки. Практическое ведение заявок и участие в программах РЭЦ.</description>
+        <description>Господдержка и субсидии экспорта: оформление заявок на государственные программы поддержки экспортёров. Участие в программах РЭЦ, региональных субсидиях, возмещение части затрат на ВЭД. Практический опыт 17 лет — Роман Долгих.</description>
         <set_ids>s11</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
@@ -209,8 +209,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3837-3139-4631-b161-663537316439/____.jpg</picture>
-        <description>Проверка готовности компании к международным операциям: контракты, финансы, логистика. Эксперт Роман Долгих.</description>
-        <set_ids>s6</set_ids>
+        <description>Экспортный аудит компании: проверка готовности предприятия к внешнеэкономической деятельности. Анализ контрактов, финансовых моделей, логистических цепочек. Выявление рисков международных операций. Практический опыт 17 лет в ВЭД — Роман Долгих.</description>
+        <set_ids>s2,s6</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -225,8 +225,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6238-3837-4566-b265-656264353434/noroot.png</picture>
-        <description>Проверка экспортных и импортных договоров: ИНКОТЕРМС, страховые риски, валютный контроль. Роман Долгих — 17 лет практики.</description>
-        <set_ids>s6,s21</set_ids>
+        <description>Аудит внешнеэкономических контрактов: проверка экспортных и импортных договоров на соответствие международному праву. Анализ условий ИНКОТЕРМС, валютных оговорок, страховых положений. Опыт 17 лет в ВЭД — Роман Долгих.</description>
+        <set_ids>s6,s7</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -241,8 +241,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6466-6361-4637-b832-666163383837/_____.jpg</picture>
-        <description>Регистрация бренда в Роспатенте и через WIPO для экспортёров и производителей. Охрана товарного знака за рубежом.</description>
-        <set_ids>s24</set_ids>
+        <description>Регистрация товарного знака для экспорта: оформление прав на бренд для выхода на международные рынки. Регистрация в Роспатенте и через систему WIPO, защита интеллектуальной собственности за рубежом. Практика 17 лет — Роман Долгих.</description>
+        <set_ids>s21</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -257,8 +257,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6164-3263-4732-a534-373630333739/noroot.png</picture>
-        <description>Подготовка и подача в ФНС пакета на возврат НДС: контракты, ГТД, отчёты. Безопасно и в срок. Практика Долгих.</description>
-        <set_ids>s20</set_ids>
+        <description>Возврат НДС экспортёрам: подготовка документов для возмещения налога на добавленную стоимость из бюджета. Сбор контрактов, ГТД, банковских выписок, взаимодействие с ФНС. Опыт 17 лет в ВЭД — Роман Долгих.</description>
+        <set_ids>s8,s17</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -273,8 +273,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6566-6433-4063-b038-386333646436/noroot.png</picture>
-        <description>Разработка и проверка экспортных контрактов по ИНКОТЕРМС 2020, учёт валютного контроля и законодательства.</description>
-        <set_ids>s21</set_ids>
+        <description>Подготовка и согласование экспортных контрактов: разработка договоров международной купли-продажи с учетом ИНКОТЕРМС 2020. Учет требований валютного контроля, налогового законодательства, таможенного регулирования. Роман Долгих — 17 лет практики.</description>
+        <set_ids>s7,s18</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -289,7 +289,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6264-3030-4136-a539-653136613963/____.JPG</picture>
-        <description>Планирование поставок, сравнение тарифов и маршрутов, оптимизация издержек на фрахт и хранение. Опыт в Азии и Европе.</description>
+        <description>Аудит и оптимизация логистики ВЭД: анализ цепочек поставок для экспортно-импортных операций. Сравнение транспортных коридоров, таможенных процедур, складских решений. Опыт логистического сопровождения ВЭД 17 лет — Роман Долгих.</description>
         <set_ids>s9</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
@@ -305,8 +305,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3036-3163-4262-b935-376165643839/__2025-10-17__144453.png</picture>
-        <description>Инвойсы, упаковочные листы, сертификаты происхождения и ГТД по ИНКОТЕРМС. Полный пакет для ВЭД сделок.</description>
-        <set_ids>s18</set_ids>
+        <description>Оформление комплекта документов для экспорта и импорта: подготовка инвойсов, упаковочных листов, сертификатов происхождения. Заполнение грузовой таможенной декларации, работа с фитосанитарными сертификатами. Практика 17 лет — Роман Долгих.</description>
+        <set_ids>s19</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -321,7 +321,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6566-3034-4936-a635-666338313430/noroot.png</picture>
-        <description>Паспорта сделки, учёт валютных поступлений и переводов, консультации по SWIFT и платёжным системам Азии.</description>
+        <description>Валютный контроль и международные расчёты: сопровождение операций по паспортам сделок, учет валютных поступлений и платежей. Консультации по использованию SWIFT, альтернативных систем расчетов. Опыт 17 лет в ВЭД — Роман Долгих.</description>
         <set_ids>s10</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
@@ -337,7 +337,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3063-3662-4631-b736-343466616362/__-____.PNG</picture>
-        <description>Подготовка и подача заявок на субсидии РЭЦ и региональные программы. Сопровождение до выплаты.</description>
+        <description>Господдержка и субсидии для экспортёров: подготовка и подача заявок на субсидии РЭЦ и региональные программы. Сопровождение на всех этапах до получения выплат. Практический опыт 17 лет в ВЭД — Роман Долгих.</description>
         <set_ids>s11</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
@@ -353,7 +353,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3564-6132-4130-b736-663966653664/____-___.png</picture>
-        <description>Маркетинговый анализ и поиск дистрибьюторов в Азии и Европе. Подготовка B2B листингов и ведём переговоры.</description>
+        <description>Экспортный маркетинг и поиск иностранных партнёров: исследование зарубежных рынков для российских товаров. Поиск дистрибьюторов в Азии и Европе, подготовка B2B-листингов, организация переговоров. Роман Долгих — 17 лет в международной торговле.</description>
         <set_ids>s12</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
@@ -369,8 +369,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3231-3831-4035-a436-393238643333/__2025-10-17__155153.png</picture>
-        <description>Регистрация и сертификация предприятий в системе CIFER для экспорта в Китай. Переводы и практическое сопровождение.</description>
-        <set_ids>s4,s15</set_ids>
+        <description>Сертификация и регистрация в CIFER для Китая: полное сопровождение аккредитации предприятий в китайской системе. Перевод документов, взаимодействие с CNCA, решение нестандартных ситуаций. Практический опыт 17 лет — Роман Долгих.</description>
+        <set_ids>s3,s14</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -385,8 +385,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6335-3932-4466-a537-303433623833/__2025-10-17__171045.png</picture>
-        <description>Отчёты о спросе и ценах на рынках Азии и Ближнего Востока. Оценка экспортного потенциала и рисков компаний.</description>
-        <set_ids>s22</set_ids>
+        <description>Аналитика рынков Азии и Ближнего Востока: исследование спроса и цен на товары в азиатских странах. Оценка экспортного потенциала российских компаний, анализ конкурентной среды. Опыт 17 лет в ВЭД — Роман Долгих.</description>
+        <set_ids>s4,s23</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -401,7 +401,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3239-6665-4035-b636-363165626566/__2025-10-17__172954.png</picture>
-        <description>Ведение валютных и налоговых операций, учёт экспортных сделок, декларации и НДС. Бухгалтерская поддержка экспортёров и импортёров.</description>
+        <description>Бухгалтерия и отчётность по ВЭД: ведение учёта валютных операций, отражение экспортных сделок, подготовка налоговых деклараций. Учёт НДС при экспорте, работа с паспортами сделок. Практика 17 лет — Роман Долгих.</description>
         <set_ids>s8</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
@@ -417,7 +417,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3262-3662-4030-a163-343838343264/___-__.png</picture>
-        <description>Контракты, споры, арбитраж, судебная поддержка по ВЭД. Юридическая помощь в экспортно импортных операциях — Роман Долгих.</description>
+        <description>Юридическое сопровождение внешнеторговых операций: консультации по международному праву, разрешение споров с иностранными контрагентами. Подготовка арбитражных оговорок, представительство в судах. Роман Долгих — 17 лет практики в ВЭД.</description>
         <set_ids>s7</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
@@ -433,7 +433,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3232-3461-4530-a163-653531613765/__-___.jpg</picture>
-        <description>Разработка презентаций и предложений на иностранных языках для поиска партнёров и переговоров с дистрибьюторами в Азии и Европе.</description>
+        <description>Экспортные презентации и коммерческие предложения: разработка материалов на иностранных языках для переговоров с зарубежными партнерами. Создание презентаций продукции, коммерческих офертов для дистрибьюторов. Опыт 17 лет — Роман Долгих.</description>
         <set_ids>s12,s13</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
@@ -449,8 +449,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3933-3665-4865-b166-343035666165/__.JPG</picture>
-        <description>План входа на рынок КНР: аналитика, CIFER, логистика, сертификация. Практическое сопровождение экспортёров в Китай.</description>
-        <set_ids>s15</set_ids>
+        <description>Выход на рынок Китая: разработка стратегии экспансии на китайский рынок. Анализ требований CIFER, логистических схем, сертификации продукции. Практическое сопровождение экспортёров — Роман Долгих, 17 лет опыта.</description>
+        <set_ids>s3</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -465,8 +465,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6563-3038-4261-b465-613932303737/____-____.JPG</picture>
-        <description>Проверка компаний в Китае, ЕС, Африке по реестрам EORI, SAMR, CNCA. Оценка рисков и надёжности партнёров во ВЭД.</description>
-        <set_ids>s23</set_ids>
+        <description>Проверка контрагентов и иностранных партнёров: Due Diligence компаний в Китае, ЕС, Африке. Анализ по реестрам EORI, SAMR, CNCA, оценка надёжности партнёров для ВЭД. Роман Долгих — 17 лет практики.</description>
+        <set_ids>s20</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -481,8 +481,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3931-3764-4330-b732-326266363433/IMG_935A049363E2-1.jpeg</picture>
-        <description>План и сопровождение поставок в Африку: логистика, сертификация и поиск партнёров. Направления — Египет, Кения, Нигерия, Гана.</description>
-        <set_ids>s16</set_ids>
+        <description>Экспорт в Африку: разработка плана поставок в страны Африки. Сопровождение логистики, сертификации, поиска партнёров в Египте, Кении, Нигерии, Гане. Опыт 17 лет в ВЭД — Роман Долгих.</description>
+        <set_ids>s15</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -497,8 +497,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6666-3066-4839-b936-613038363561/____-__.png</picture>
-        <description>Отчёты по рынкам Африки и B2B поиск дистрибьюторов (Нигерия, Кения, ЮАР, Египет). Практические кейсы экспорта.</description>
-        <set_ids>s16,s22</set_ids>
+        <description>Аналитика рынков Африки и поиск партнёров: исследование рынков Нигерии, Кении, ЮАР, Египта. Поиск дистрибьюторов для российских товаров, подготовка B2B-контактов. Практические кейсы экспорта — Роман Долгих, 17 лет.</description>
+        <set_ids>s4,s15</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -513,7 +513,7 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3165-3664-4934-b238-623366613032/Roman_Dolgikh_export.png</picture>
-        <description>Фирменный стиль и упаковка для зарубежных рынков. Создание бренда экспортёра для Азии и Африки.</description>
+        <description>Брендинг для экспорта: разработка фирменного стиля и упаковки для зарубежных рынков. Создание бренда экспортёра с учётом культурных особенностей Азии и Африки. Роман Долгих — 17 лет в международной торговле.</description>
         <set_ids>s13</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
@@ -529,8 +529,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3438-3836-4837-a432-626132356539/____-__.jpg</picture>
-        <description>Организация B2B переговоров и поиск дистрибьюторов в Азии и Африке. Переводы, сопровождение, результаты.</description>
-        <set_ids>s12,s23</set_ids>
+        <description>Экспортные B2B переговоры и поиск партнёров: организация встреч с дистрибьюторами в Азии и Африке. Проведение переговоров, переводы, сопровождение до заключения сделок. Опыт 17 лет — Роман Долгих.</description>
+        <set_ids>s12,s20</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -545,8 +545,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6435-3538-4662-b134-316637623634/81d9931a-5a68-45df-a.JPG</picture>
-        <description>Практический опыт экспорта в Гану: пошлины, сертификация, логистика и поиск надёжных партнёров.</description>
-        <set_ids>s16</set_ids>
+        <description>Экспорт в Гану: практическое сопровождение поставок в Республику Гана. Расчет таможенных пошлин, сертификация продукции, поиск надежных партнёров. Роман Долгих — 17 лет опыта в ВЭД.</description>
+        <set_ids>s15</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -561,8 +561,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6236-3664-4431-b065-373738313462/____-__.jpg</picture>
-        <description>Сертификаты и регистрация производителей для рынков Африки: Гана, Нигерия, Египет, ЮАР. Оформление и апостиль.</description>
-        <set_ids>s17</set_ids>
+        <description>Сертификация для экспорта в Африку: оформление сертификатов соответствия для рынков Ганы, Нигерии, Египта, ЮАР. Регистрация производителей, легализация документов. Практика 17 лет — Роман Долгих.</description>
+        <set_ids>s14,s15</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -577,8 +577,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild6438-6264-4138-b632-376331663839/____-___.jpeg</picture>
-        <description>Поиск дистрибьюторов и импортёров для экспорта в Африку. Организация переговоров и заключение сделок.</description>
-        <set_ids>s16,s23</set_ids>
+        <description>Поиск B2B партнёров в Африке: поиск дистрибьюторов и импортёров для экспорта в страны Африки. Организация переговоров, проверка контрагентов, заключение сделок. Роман Долгих — 17 лет в международной торговле.</description>
+        <set_ids>s15,s20</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -593,8 +593,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3466-3438-4661-b938-653230356639/__.jpeg</picture>
-        <description>Разработка маршрутов ипоставок в Африку, таможня, страхование и сертификация. Опытные логисты ВЭД.</description>
-        <set_ids>s9,s16</set_ids>
+        <description>Логистика экспорта в Африку: разработка маршрутов поставок в страны Африки. Таможенное оформление, страхование грузов, сертификация. Опытные решения в ВЭД — Роман Долгих, 17 лет.</description>
+        <set_ids>s9,s15</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -609,8 +609,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3465-3533-4531-b265-306532626630/____-___.jpeg</picture>
-        <description>Регистрация компании в Малайзии для экспорта и торговли в Азии. Sdn Bhd, Labuan, открытие счёта и налоги.</description>
-        <set_ids>s14</set_ids>
+        <description>Открытие компании в Малайзии: регистрация предприятия в Малайзии для экспортно-импортных операций. Формы Sdn Bhd, Labuan, открытие банковских счетов, налоговое консультирование. Роман Долгих — 17 лет опыта.</description>
+        <set_ids>s5,s24</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -625,8 +625,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3237-6362-4461-a538-396438383732/___.jpg</picture>
-        <description>Поиск дистрибьюторов и B2B контактов в Малайзии. Организация встреч, проверка партнёров и переговоры.</description>
-        <set_ids>s14,s23</set_ids>
+        <description>Поиск партнёров в Малайзии: поиск дистрибьюторов и B2B-контактов в Малайзии. Организация бизнес-встреч, проверка партнёров, ведение переговоров. Опыт 17 лет в ВЭД — Роман Долгих.</description>
+        <set_ids>s20,s24</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -641,8 +641,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3234-3862-4130-a561-643762383731/___.jpeg</picture>
-        <description>Регистрация компаний во Вьетнаме для экспортёров: налоги, банковские счета, сертификация, 7 лет реального опыта.</description>
-        <set_ids>s14</set_ids>
+        <description>Открытие компании во Вьетнаме: регистрация юридического лица во Вьетнаме для экспортёров. Налоговое планирование, открытие банковских счетов, сертификация бизнеса. Практика 17 лет — Роман Долгих.</description>
+        <set_ids>s5,s25</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
@@ -657,8 +657,8 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://static.tildacdn.com/tild3265-6538-4233-b861-626463613534/___.jpeg</picture>
-        <description>Поиск и проверка вьетнамских партнёров для экспортёров, B2B переговоры и организация встреч в Юго Восточной Азии.</description>
-        <set_ids>s14,s23</set_ids>
+        <description>Поиск партнёров во Вьетнаме: поиск и проверка вьетнамских контрагентов для экспортёров. Организация B2B-переговоров, бизнес-встреч в Юго-Восточной Азии. Роман Долгих — 17 лет практики в ВЭД.</description>
+        <set_ids>s20,s25</set_ids>
         <param name="Рейтинг">5.0</param>
         <param name="Число отзывов">150</param>
         <param name="Годы опыта">17</param>
